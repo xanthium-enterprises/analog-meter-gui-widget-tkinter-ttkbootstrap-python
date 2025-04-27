@@ -6,5 +6,5 @@
 
 ## Online Tutorial
 
-- (Developing an Interactive Analog Gauge in Python Using Tkinter and ttkbootstrap)[https://www.xanthium.in/creating-analog-meter-gauge-instrument-gui-in-python-using-tkinter-ttkbootstrap-tutorial]
+- [Developing an Interactive Analog Gauge in Python Using Tkinter and ttkbootstrap](https://www.xanthium.in/creating-analog-meter-gauge-instrument-gui-in-python-using-tkinter-ttkbootstrap-tutorial)
  
