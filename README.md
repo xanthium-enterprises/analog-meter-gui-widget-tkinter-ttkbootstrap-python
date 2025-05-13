@@ -9,6 +9,7 @@
 
 ## Online Tutorial
 
+- [Youtube Tutorial on ttkbootstrap meter widget programming using Python](https://www.youtube.com/watch?v=zKBg5-Y4NAI)
 - [Developing an Interactive Analog Gauge in Python Using Tkinter and ttkbootstrap](https://www.xanthium.in/creating-analog-meter-gauge-instrument-gui-in-python-using-tkinter-ttkbootstrap-tutorial)
 
 - If you are new to tkinter or ttkbootstrap,Do check our [Quick and Concise tutorial on ttkbootstrap here](https://www.xanthium.in/short-concise-tutorial-python-gui-design-using-tkinter-ttkbootstrap-beginners) 
